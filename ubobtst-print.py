@@ -1,3 +1,3 @@
 # python ubobtst-print.py
 
-print "ubobtst"
+print "Testing..."
